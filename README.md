@@ -5,9 +5,9 @@
 
 ![Bhushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhushang9&show_icons=true&theme=radical)
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=bhushang9&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bhushang9&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhushang9&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
